@@ -1,0 +1,17 @@
+{
+  "name": "@kakushindev/keren",
+  "version": "1.0.0",
+  "description": "TBD",
+	"scripts": {
+		"build": "turbo run build",
+		"lint": "turbo run lint",
+		"lint:fix": "turbo run lint:fix"
+	},
+  "type": "module",
+  "author": "kakushindev",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "rimraf": "^5.0.5",
+    "turbo": "^1.11.3"
+  }
+}
