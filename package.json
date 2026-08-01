@@ -11,7 +11,7 @@
   "author": "kakushindev",
   "license": "GPL-3.0",
   "devDependencies": {
-    "rimraf": "^5.0.5",
+    "rimraf": "^6.1.3",
     "turbo": "^1.11.3"
   }
 }
