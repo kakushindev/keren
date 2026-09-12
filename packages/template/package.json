@@ -27,9 +27,9 @@
         }
     },
     "devDependencies": {
-        "@hazmi35/eslint-config": "^11.0.0",
-        "eslint": "^8.56.0",
-        "typescript": "^5.3.3"
+        "@hazmi35/eslint-config": "^15.2.2",
+        "eslint": "^10.10.0",
+        "typescript": "^7.0.2"
     },
     "dependencies": {
         "@types/node": "^20.11.0"
